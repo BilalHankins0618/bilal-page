@@ -1,0 +1,17 @@
+.body{
+    /* background: black; */
+    color: black;
+    text-align: center;
+    background-image: url("images/turkey.png");
+    height: 100vh;
+    margin: 0;
+    padding:0;
+}
+.head {
+    text-align: center;
+margin: 0;
+    background: black;
+    color:white;
+    padding:0;
+
+}
